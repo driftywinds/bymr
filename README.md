@@ -10,8 +10,8 @@ How to use: -
 
 1. Clone the original repo.
 2. Edit the docker-compose.yml file to fit your needs with regards to ports, volumes and db credentials.
-3. ```docker compose up -d```
-4. Remove the lines corresponding to building the container and write the "image" part of the docker-compose.yml to ```ghcr.io/driftywinds/bymr:latest```.
+3. Remove the lines corresponding to building the container and write the "image" part of the docker-compose.yml to ```ghcr.io/driftywinds/bymr:latest```.
+4. ```docker compose up -d```
 
 <br>
 
